@@ -22,9 +22,10 @@
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/pshu1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pshu1991" height="30" width="40"/></a>
-<a href="https://instagram.com/prateek_shukla_19901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prateek_shukla_19901" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/prateek_7394" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prateek_7394" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prateek_1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek_1991" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/prateek_shukla_19901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prateek_shukla_19901" height="30" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/prateek_7394" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prateek_7394" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/prateek_1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek_1991" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/sprateek9838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sprateek9838" height="30" width="40" /></a>
 </p>
 <br>
